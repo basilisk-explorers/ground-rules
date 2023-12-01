@@ -55,7 +55,7 @@ For other issues, we’ll follow these steps -
 
  - Third offence: We will take action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or removal from Basilisk Explorers permanently (for extremely serious situations).
 
-For future offences, if - following a suspension - the Explorers returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
+For future offences, if - following a suspension - the Explorer returns and continues to be disruptive and act contrary to the above agreements, a full removal will be happen without warning.
 
 tldr; Explorers receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal from the group.
 
