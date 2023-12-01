@@ -49,11 +49,11 @@ We take a strong stance on enforcing our code of conduct. In severe cases, we'll
 
 For other issues, we’ll follow these steps -
 
-First offence: we’ll issue a formal warning, verbally. It will also be documented to ensure there's a record of when it happened. Whenever a warning is issued, we will refer back to this document and indicate the part of the Code of Conduct we feel has been breached.
+ - First offence: we’ll issue a formal warning, verbally. It will also be documented to ensure there's a record of when it happened. Whenever a warning is issued, we will refer back to this document and indicate the part of the Code of Conduct we feel has been breached.
 
-Second offence: A further warning will be issued, in stronger terms. This will include notifying the parents, and will talk about what happens if our Code of Conduct continues to not be followed - which can include suspension or removal from Basilisk Explorers.
+ - Second offence: A further warning will be issued, in stronger terms. This will include notifying the parents, and will talk about what happens if our Code of Conduct continues to not be followed - which can include suspension or removal from Basilisk Explorers.
 
-Third offence: We will take action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or removal from Basilisk Explorers permanently (for extremely serious situations).
+ - Third offence: We will take action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or removal from Basilisk Explorers permanently (for extremely serious situations).
 
 For future offences, if - following a suspension - the Explorers returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
 
