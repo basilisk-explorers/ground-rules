@@ -6,6 +6,7 @@ Basilisk Explorers is a place where Explorers should feel welcome and included. 
 
 The purpose of this document is to outline the Explorer Group values - what we do, and don’t, stand for - and the measures we take to protect them.
 
+
 # Inclusivity 🙌
 We want everyone to feel included during their time at Explorers. In particular, nobody should ever feel excluded on the basis of their:
 
@@ -16,6 +17,7 @@ We want everyone to feel included during their time at Explorers. In particular,
 * Race
 * Age
 * Religion
+
 
 # Our Shared Values ☀️
 
@@ -55,7 +57,8 @@ Third offence: We will take action. This can be a short-term suspension (for rep
 
 For future offences, if - following a suspension - the Explorers returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
 
-tldr; Explorers receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal.
+tldr; Explorers receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal from the group.
+
 
 # Alerting us 🙋🙋‍♂️
 
