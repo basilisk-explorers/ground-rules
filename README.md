@@ -16,7 +16,7 @@ We want everyone to feel included during their time at Explorers. In particular,
 * Gender, gender identity, or gender expression
 * Sexual orientation
 * Disability or medical condition
-* Physical appearance (including but not limited to body size)
+* Physical appearance
 * Race
 * Age
 * Religion
@@ -29,7 +29,7 @@ We want everyone to feel included during their time at Explorers. In particular,
 * We are collectively and individually committed to safety and inclusivity. 
 * We have zero tolerance for abuse, harassment, or discrimination. 
 * We respect people’s boundaries and identities. 
-* We refrain from using language that can be considered sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs. 
+* We don't use language that could be considered: sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs. 
 * We avoid using offensive topics as a form of humour. 
 
 
