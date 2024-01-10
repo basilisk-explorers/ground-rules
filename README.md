@@ -1,13 +1,16 @@
-# Code of Conduct
-### Basilisk Explorers Code of Conduct
+# Basilisk Explorers Policies
 
-
+## Overview
 Basilisk Explorers is a place where Explorers should feel welcome and included. And while things can get a little rough from time to time, we also want to ensure people always feel safe 👍
 
-The purpose of this document is to outline the Explorer Group values - what we do, and don’t, stand for - and the measures we take to protect them.
+The purpose of this document is to outline the Basilisk Explorers values - what we do, and don’t stand for, and the measures we take to protect them. It also covers our safeguarding policies as well as anyt other important information.
+
+## Group Communication
+At Basilisk Explorers, Explorers and Leaders can talk together in our group chat. This group chat is used for event updates, as well as key information the Explorers might need. Explorers, please don't send individual messages to leaders. If you message a leader directly, they won't respond unless it's an emergency or a sensitive issue (this will still need to be shared with other leaders). You should make a group chat that includes at least two leaders if neccessary. Leaders are expected to let other leaders know if an Explorer sends them an individual message.
 
 
-# Inclusivity 🙌
+## Code of Conduct
+### Inclusivity 🙌
 We want everyone to feel included during their time at Explorers. In particular, nobody should ever feel excluded on the basis of their:
 
 * Gender, gender identity, or gender expression
@@ -19,16 +22,16 @@ We want everyone to feel included during their time at Explorers. In particular,
 * Religion
 
 
-# Our Shared Values ☀️
+### Our Shared Values ☀️
 
 #### You agree that:
 
-  * We are collectively and individually committed to safety and inclusivity.
-  * We have zero tolerance for abuse, harassment, or discrimination.
-  * We respect people’s boundaries and identities.
-  * We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-  * We avoid using offensive topics as a form of humor.
-  * We do not suggest or speculate on ways of breaking the law.
+* We are collectively and individually committed to safety and inclusivity. 
+* We have zero tolerance for abuse, harassment, or discrimination. 
+* We respect people’s boundaries and identities. 
+* We refrain from using language that can be considered sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs. 
+* We avoid using offensive topics as a form of humour. 
+
 
 #### We actively work towards:
 
@@ -43,7 +46,7 @@ We want everyone to feel included during their time at Explorers. In particular,
   * Anything that compromises people’s safety.
 
 
-# Consequences for breaking the rules 🚨
+### Consequences for breaking the rules 🚨
 
 We take a strong stance on enforcing our code of conduct. In severe cases, we'll consider what happened on an individual basis.
 
@@ -60,15 +63,15 @@ For future offences, if - following a suspension - the Explorer returns and cont
 tldr; Explorers receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal from the group.
 
 
-# Alerting us 🙋🙋‍♂️
+### Alerting us 🙋🙋‍♂️
 
 If you see something, hear something or are involved in something that makes you feel uncomfortable, please flag it to one of the leaders. Here’s how -
 
 - You can chat to us on an Explorer evening, just mention you wanted to chat to us about something more privately. 
 - You can get a parent/guardian to contact us if you don't want to contact us directly
-- You can email chingford-esu@wf-scouts.org.uk and it'll be handled by Julia or Manisha (Explorer admin extrodinares)
+- You can email baislisk-explorers@wf-scouts.org.uk and it'll be handled by Julia or Manisha (Explorer admin extrodinares)
 
-# Leader Contact Details 📞
+### Leader Contact Details 📞
 - Cameron Chalmers - 07983 772782
 - Andrew Kirby -  07762 778731‬
 - James Billingjam - 07857 698335‬
