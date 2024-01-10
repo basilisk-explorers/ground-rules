@@ -5,9 +5,14 @@ Basilisk Explorers is a place where Explorers should feel welcome and included. 
 
 The purpose of this document is to outline the Basilisk Explorers values - what we do, and don’t stand for, and the measures we take to protect them. It also covers our safeguarding policies as well as anyt other important information.
 
-## Group Communication
-At Basilisk Explorers, Explorers and Leaders can talk together in our group chat. This group chat is used for event updates, as well as key information the Explorers might need. Explorers, please don't send individual messages to leaders. If you message a leader directly, they won't respond unless it's an emergency or a sensitive issue (this will still need to be shared with other leaders). You should make a group chat that includes at least two leaders if neccessary. Leaders are expected to let other leaders know if an Explorer sends them an individual message.
+## Safeguarding
+To help keep everyone safe and protected, the [Scouts safeguarding policy](https://www.scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/) sets out the rules we need to follow.
 
+One of the key requirements is that adults and Explorers should not be alone on a 1-to-1 basis. This is all about creating visibility, so at least 3 people know about any communication. Most of the time, this is achieved in-person by ensuring there will always be multiple leaders or Explorers present. Online, the rule is the same - this mostly comes up in calls and messaging.
+
+Explorers and leaders can talk together in our shared group chat. This group chat is used for event updates, as well as key information the Explorers might need. To maintain safeguarding, Explorers: please don't send individual messages to leaders. If it's necessary to message outside the shared group chat, you should make another group chat that includes at least two current leaders. If you do message a leader directly, they are required to share that information with other leaders, and they won't respond unless it's an emergency or a sensitive issue.
+
+If a call happens between a leader and an Explorer, at least one of you should be with another leader/Explorer, ideally placing the call on speaker. Let the other person know who you're with. In the event of an emergency or sensitive issue where it's not feasible to create visibility, the leader will share the information with other leaders.
 
 ## Code of Conduct
 ### Inclusivity 🙌
