@@ -3,7 +3,7 @@
 ## Overview
 Basilisk Explorers is a place where Explorers should feel welcome and included. And while things can get a little rough from time to time, we also want to ensure people always feel safe 👍
 
-The purpose of this document is to outline the Basilisk Explorers values - what we do, and don’t stand for, and the measures we take to protect them. It also covers our safeguarding policies as well as anyt other important information.
+The purpose of this document is to outline the Basilisk Explorers values - what we do, and don’t stand for, and the measures we take to protect them. It also covers our safeguarding policies as well as any other important information.
 
 ## Safeguarding
 To help keep everyone safe and protected, the [Scouts safeguarding policy](https://www.scouts.org.uk/about-us/policy/safeguarding-policy-and-procedures/) sets out the rules we need to follow.
@@ -87,13 +87,13 @@ If you see something, hear something or are involved in something that makes you
 
 - You can chat to us on an Explorer evening, just mention you wanted to chat to us about something more privately. 
 - You can get a parent/guardian to contact us if you don't want to contact us directly
-- You can email baislisk-explorers@wf-scouts.org.uk and it'll be handled by Julia or Manisha (Explorer admin extrodinares)
+- You can email baislisk-explorers@wf-scouts.org.uk and it'll be handled by Julia or Manisha (Explorer admin extraordinaires)
 
 ### Leader Contact Details 📞
 - Cameron Chalmers - 07983 772782
 - Andrew Kirby -  07762 778731‬
 - James Billingjam - 07857 698335‬
 
-Anything you share with the Leaders will be held in confidence. So please don’t hesitate in coming forward.
+Anything you share with the Leaders will be held in confidence, but can’t be kept secret. It will be shared with other leaders unless it involves them. So please don’t hesitate in coming forward.
 
 Thanks for helping keep Explorers a fun (and safe) place to get involved. And happy scouting! ⚜️
