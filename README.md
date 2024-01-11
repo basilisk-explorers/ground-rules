@@ -14,6 +14,13 @@ Explorers and leaders can talk together in our shared group chat. This group cha
 
 If a call happens between a leader and an Explorer, at least one of you should be with another leader/Explorer, ideally placing the call on speaker. Let the other person know who you're with. In the event of an emergency or sensitive issue where it's not feasible to create visibility, the leader will share the information with other leaders.
 
+## Uniform 👔
+### Indoor Meetings
+All Leaders and Explorers are expected to wear their full uniform. Uniform consists of the Basilisk Explorers necker/scarf, as well an Explorer shirt. Group clothing can be worn as a replacement for an Explorer shirt. Uniform should be worn during the opening and closing ceremony, but can be removed during the main portion of the evening.
+
+### Outdoor Meetings
+All Leaders and Explorers are not expected to wear their full uniform, but will need to wear their necker/scarf. Group clothing should be worn if this is owned. Neckers/scarfs should be worn during the entire evening, and shouldn't be removed. When outside, we're representing Scouting.
+
 ## Code of Conduct
 ### Inclusivity 🙌
 We want everyone to feel included during their time at Explorers. In particular, nobody should ever feel excluded on the basis of their:
